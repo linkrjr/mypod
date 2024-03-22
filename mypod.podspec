@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'mypod'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'It must tell something about the app but I have nothing to say about it'
   s.swift_version    = '5.9'
 
