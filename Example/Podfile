@@ -1,6 +1,6 @@
 use_frameworks!
 target 'mypod_Tests' do
-  pod 'mypod', :path => '../'
+  pod 'rg-mypod-spike', :path => '../'
   
   
 end

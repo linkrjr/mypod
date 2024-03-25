@@ -1,0 +1,16 @@
+PODS:
+  - rg-mypod-spike (1.0.2)
+
+DEPENDENCIES:
+  - rg-mypod-spike (from `../`)
+
+EXTERNAL SOURCES:
+  rg-mypod-spike:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  rg-mypod-spike: 02cd74e51c13ddcf80588d64a9fecc14a3a602ea
+
+PODFILE CHECKSUM: 2b63182cd25bf3eeaf84db3b30545b876aa72a05
+
+COCOAPODS: 1.15.2

@@ -1,5 +1,5 @@
 import XCTest
-import mypod
+import rg_mypod_spike
 
 class Tests: XCTestCase {
     
@@ -15,7 +15,8 @@ class Tests: XCTestCase {
     
     func testExample() {
         // This is an example of a functional test case.
-        XCTAssert(true, "Pass")
+			
+        XCTAssert(Counter.count == 1, "Pass")
     }
     
     func testPerformanceExample() {

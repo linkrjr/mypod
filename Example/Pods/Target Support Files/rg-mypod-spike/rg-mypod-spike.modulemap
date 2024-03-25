@@ -1,0 +1,6 @@
+framework module rg_mypod_spike {
+  umbrella header "rg-mypod-spike-umbrella.h"
+
+  export *
+  module * { export * }
+}
