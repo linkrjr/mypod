@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'rg-mypod-spike'
-  s.version          = '1.0.3'
+  s.version          = '1.0.5'
   s.summary          = 'It must tell something about the app but I have nothing to say about it'
   s.swift_version    = '5.9'
 
